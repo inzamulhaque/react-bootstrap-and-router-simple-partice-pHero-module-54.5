@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Single zip backpack",
+        "price": 120,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Small backpack for women",
+        "price": 150,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/b.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Black backpack",
+        "price": 119,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/c.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sling bag",
+        "price": 90,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/d.jpg"
+    },
+    {
+        "id": 5,
+        "name": "One backpack",
+        "price": 150,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/f.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Women backpack",
+        "price": 190,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/g.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Shoulder bag for men",
+        "price": 90,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/h.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Single strap bag",
+        "price": 90,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/i.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Blue Backpack",
+        "price": 150,
+        "image": "https://splendid-ganache-90bb08.netlify.app/images/k.jpg"
+    }
+]
